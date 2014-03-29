@@ -25,8 +25,7 @@ Pohjalla oleva Minecraftin versio on **1.6.4**. Joten, laita taustalle soimaan [
     - **[NEI Plugins](https://bitbucket.org/mistaqur/nei_plugins/wiki/Home)** Erinäisiä hyödyllisiä lisämodeja NEI:hin, pääosin kertovat enemmän palikoista ja lisäävät integraatiota eri modien välille. Hydöyllisin lisämodi on Waila eli *What Am I Looking At*, jonka avulla voit esimerkiksi hakea blokkeja modin nimen mukaan. **Huomhuom!** Johtuen modimaailman sekavuudesta aivan kaikki blokit eivät näy NEI:ssä. Näitä pystyy konffitiedostoilla korjaamaan ajan kuluessa, mutta näin aluksi ainakin ko. konffit tulevat uupumaan.
  - **[Ender Storage](http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/)** Värikoodatut Ender Chestit, erittäin hyödyllinen siis.
  - **[Not Enough Keys](http://www.minecraftforum.net/topic/2189371-164-not-enough-keys-004-organizing-the-keybinds-menu/)** Kuin NEI, mutta näppäinkomennoille. Muuttaa bindivalikon järkevämmäksi, mistä on isosti hyötyä koska uusia nappeja ja toiminallisuuksia tulee modien mukana liuta.
- - [Damage Indicators](http://www.minecraftforum.net/topic/1536685-172164forge-hit-splat-damage-indicators-v310-rpg-ui-and-damage-amount-mod/)
- - [GeoStrata](https://sites.google.com/site/reikasminecraft/geostrata)
+ - [Damage Indicators](http://www.minecraftforum.net/topic/1536685-172164forge-hit-splat-damage-indicators-v310-rpg-ui-and-damage-amount-mod/) Jälleen kerran yksi modi, joka tekee juuri sen mitä nimestä voi olettaakin. Kovin hyödyllinen siis.
 
 ## Aikakaudet
 
